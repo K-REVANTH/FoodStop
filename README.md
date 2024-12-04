@@ -9,7 +9,7 @@
 - Place the order and receive a confirmation via an alert box.
 - Return to the home page by refreshing the page.
 
-## Installation Instructions  
+## Instructions  
 
 1. **Download the Project:**  
    - Download the entire zip file containing the project.  
